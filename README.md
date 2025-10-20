@@ -46,11 +46,31 @@ This approach improves code readability, testability, and long-term maintainabil
    flutter run
    ```
 
----
-
 ## 📸 Screenshots
 
-> Screenshots will be added here after the UI implementation is completed.
+Here are some screenshots from the *Flutter Task* app:
+
+### 🏠 Home Screen
+
+| Home                        |
+| --------------------------- |
+| ![Home](screenshots/home.png) |
+
+---
+
+### 🔍 Filter Screens
+
+| Filter                          | Filter (Alternative)              |
+| ------------------------------- | --------------------------------- |
+| ![Filter](screenshots/filter.png) | ![Filter2](screenshots/filter2.png) |
+
+---
+
+### 💎 Plans Screens
+
+| Plans                         | Plans (Alternative)             |
+| ----------------------------- | ------------------------------- |
+| ![Plans](screenshots/plans.png) | ![Plans2](screenshots/plans2.png) |
 
 ---
 
