@@ -31,7 +31,7 @@ This approach improves code readability, testability, and long-term maintainabil
 1. Make sure you have Flutter installed on your machine.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/AhmedSayed/flutter-task.git
+   git clone https://github.com/AhmedSayedIsmail/flutter-task.git
    ```
 3. Navigate to the project directory:
    ```bash
